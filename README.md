@@ -29,7 +29,7 @@
 <li>Technologies: HTML, CSS, React</li>
 <h2>Installation and Setup</h2>
 <h3>Prerequisites:</h3>
-<li>Node.js installed on your system.</li>
+<li>Nodemon.js installed on your system.</li>
 
 
 <li>A package manager such as npm or yarn.</li>
